@@ -6,7 +6,7 @@ on:
 
 env:
   TITLE: "LintKit: Composer Normalize"
-  DESCRIPTION: "Normalise the composer files"
+  DESCRIPTION: "A very opinionated configuration of composer normalize"
   REGISTRY: ghcr.io
 
 jobs:

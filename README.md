@@ -1,5 +1,7 @@
 # LintKit: PHP Coding Standards
 
+A very opinionated configuration of [composer normalize](https://github.com/ergebnis/composer-normalize).
+
 ## Usage
 
 ### GitLab

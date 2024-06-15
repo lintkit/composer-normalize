@@ -1,6 +1,6 @@
 # action.yml
 name: "LintKit: Composer Normalize"
-description: "Normalise the composer files"
+description: "A very opinionated configuration of composer normalize"
 branding:
   icon: 'check'
   color: 'blue'
